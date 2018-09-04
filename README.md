@@ -1,0 +1,2 @@
+# Django_WebServer
+Django搭建Web服务器，用于学习如何使用Django搭配nginx
